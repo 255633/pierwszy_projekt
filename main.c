@@ -2,6 +2,8 @@
 
 int main(void)
 {
-    printf("Hello, World!\n");
+    printf("Pierwsze repo na gicie!\n");
+    std::cout << "W pierwszym branchu; 2x3=" << Policz(2,3)) << std::endl;
+
     return 0;
 }
